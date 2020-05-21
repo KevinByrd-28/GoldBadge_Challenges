@@ -1,0 +1,17 @@
+C:\ElevenFiftyProjects\DotNetProjects\Challenge2_RepoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftyProjects\DotNetProjects\Challenge2_RepoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftyProjects\DotNetProjects\Challenge2_RepoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftyProjects\DotNetProjects\Challenge2_RepoTest\bin\Debug\Challenge2_RepoTest.dll
+C:\ElevenFiftyProjects\DotNetProjects\Challenge2_RepoTest\bin\Debug\Challenge2_RepoTest.pdb
+C:\ElevenFiftyProjects\DotNetProjects\Challenge2_RepoTest\bin\Debug\Challenge2_Claims.exe
+C:\ElevenFiftyProjects\DotNetProjects\Challenge2_RepoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftyProjects\DotNetProjects\Challenge2_RepoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFiftyProjects\DotNetProjects\Challenge2_RepoTest\bin\Debug\Challenge2_Claims.pdb
+C:\ElevenFiftyProjects\DotNetProjects\Challenge2_RepoTest\bin\Debug\Challenge2_Claims.exe.config
+C:\ElevenFiftyProjects\DotNetProjects\Challenge2_RepoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftyProjects\DotNetProjects\Challenge2_RepoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFiftyProjects\DotNetProjects\Challenge2_RepoTest\obj\Debug\Challenge2_RepoTest.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\Challenge2_RepoTest\obj\Debug\Challenge2_RepoTest.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\Challenge2_RepoTest\obj\Debug\Challenge2_RepoTest.csproj.CopyComplete
+C:\ElevenFiftyProjects\DotNetProjects\Challenge2_RepoTest\obj\Debug\Challenge2_RepoTest.dll
+C:\ElevenFiftyProjects\DotNetProjects\Challenge2_RepoTest\obj\Debug\Challenge2_RepoTest.pdb

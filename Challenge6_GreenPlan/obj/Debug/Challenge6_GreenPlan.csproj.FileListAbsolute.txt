@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\DotNetProjects\Challenge6_GreenPlan\obj\Debug\Challenge6_GreenPlan.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\Challenge6_GreenPlan\obj\Debug\Challenge6_GreenPlan.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\Challenge6_GreenPlan\bin\Debug\Challenge6_GreenPlan.exe.config
+C:\ElevenFiftyProjects\DotNetProjects\Challenge6_GreenPlan\bin\Debug\Challenge6_GreenPlan.exe
+C:\ElevenFiftyProjects\DotNetProjects\Challenge6_GreenPlan\bin\Debug\Challenge6_GreenPlan.pdb
+C:\ElevenFiftyProjects\DotNetProjects\Challenge6_GreenPlan\obj\Debug\Challenge6_GreenPlan.exe
+C:\ElevenFiftyProjects\DotNetProjects\Challenge6_GreenPlan\obj\Debug\Challenge6_GreenPlan.pdb
