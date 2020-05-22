@@ -64,6 +64,13 @@ namespace Challenge6_RepoTest
             Assert.AreEqual(expected, actual);
 
         }
+
+
+        [TestMethod]
+        public void MyTestMethod()
+        {
+            Console.WriteLine("What do you want universe");
+        }
        
 
     }
